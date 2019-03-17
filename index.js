@@ -13,6 +13,3 @@ function multiply(){
 function divide(){
   n1 / n2
 }
-
-
-
