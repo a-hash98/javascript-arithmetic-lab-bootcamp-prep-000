@@ -1,15 +1,15 @@
-function add(){
+function add(n1,n2){
   n1 + n2
 }
 
-function subtract(){
+function subtract(n1,n2){
   n1 - n2
 }
 
-function multiply(){
+function multiply(n1,n2){
   n1 * n2
 }
 
-function divide(){
+function divide(n1,n2){
   n1 / n2
 }
